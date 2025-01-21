@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=RustDesk
+Name=黄荷远控
 GenericName=Remote Desktop
 Comment=Remote Desktop
 Exec=rustdesk %u
