@@ -3,7 +3,7 @@ pub static ref T: std::collections::HashMap<&'static str, &'static str> =
     [
         ("Status", "状态"),
         ("Your Desktop", "黄荷远控"),
-        ("desk_tip", "by 黄荷 于2025年1月20日 下关"),
+        ("desk_tip", "by 黄荷 于2025年1月21日 下关"),
         ("Password", "密码"),
         ("Ready", "已成功连接黄荷远控服务器..."),
         ("Established", "已建立"),
